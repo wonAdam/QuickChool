@@ -35,7 +35,7 @@
         },
         {
             "name":"운영체제",
-            "description": "",
+            "description": "시험은 영문판오픈북",
             "href":[
                 {
                     "name":"웹엑스",
@@ -45,7 +45,7 @@
 
         },
         {
-            "name":"기초데이터베이스 ",
+            "name":"기초데이터베이스",
             "description": "",
             "href":[
                 {
