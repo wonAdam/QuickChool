@@ -55,7 +55,6 @@ body{
     display: grid;
     flex-direction: column;
     flex-wrap: wrap;
-    grid-template-rows: repeat(5, 1fr);
     grid-template-columns: repeat(2, 1fr);
 }
 
