@@ -1,41 +1,41 @@
 {
     "classes":[
         {
-            "name":"한국의 문화유산",
+            "name":"소프트웨어공학",
             "description": "",
             "href":[
                 {
-                    "name":"강의 개요",
+                    "name":"",
                     "url":"https://cn2.hongik.ac.kr/course/view.php?id=492"
                 }
             ]
 
         },
         {
-            "name":"인간심리의이해",
-            "description": "싸강",
+            "name":"수치해석",
+            "description": "",
             "href":[
                 {
-                    "name":"시청 현황",
+                    "name":"",
                     "url":"https://cn2.hongik.ac.kr/report/ubcompletion/user_progress_a.php?id=4606"
                 }
             ]
 
         },
         {
-            "name":"이산수학",
-            "description": "비디오&오디오 필요, 학기중 퀴즈1-2번, ",
+            "name":"인공지능",
+            "description": "",
             "href":[
                 {
-                    "name":"웹엑스",
+                    "name":"",
                     "url":"http://hongik.webex.com/meet/rhanhahongik"
                 }
             ]
 
         },
         {
-            "name":"운영체제",
-            "description": "시험은 영문판오픈북",
+            "name":"확률및통계",
+            "description": "",
             "href":[
                 {
                     "name":"웹엑스",
@@ -45,7 +45,7 @@
 
         },
         {
-            "name":"기초데이터베이스",
+            "name":"시스템프로그래밍",
             "description": "",
             "href":[
                 {
@@ -56,16 +56,34 @@
 
         },
         {
-            "name":"네트워크프로그래밍",
-            "description": "유튜브 스트리밍",
+            "name":"HCI윈도우즈프로그래밍",
+            "description": "",
+            "href":[
+                {
+                    "name":"",
+                    "url":"https://at.hongik.ac.kr"
+                }
+            ]
+
+        },
+        {
+            "name":"졸업프로젝트",
+            "description": "",
+            "href":[
+                {
+                    "name":"",
+                    "url":"https://at.hongik.ac.kr"
+                }
+            ]
+
+        },
+        {
+            "name":"출석",
+            "description": "출석",
             "href":[
                 {
                     "name":"출석",
                     "url":"https://at.hongik.ac.kr"
-                },
-                {
-                    "name":"공지사항",
-                    "url":"https://cn2.hongik.ac.kr/mod/ubboard/view.php?id=1471"
                 }
             ]
 
