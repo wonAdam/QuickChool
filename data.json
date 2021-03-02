@@ -6,7 +6,7 @@
             "href":[
                 {
                     "name":"",
-                    "url":"https://cn2.hongik.ac.kr/course/view.php?id=492"
+                    "url":""
                 }
             ]
 
@@ -17,7 +17,7 @@
             "href":[
                 {
                     "name":"",
-                    "url":"https://cn2.hongik.ac.kr/report/ubcompletion/user_progress_a.php?id=4606"
+                    "url":""
                 }
             ]
 
@@ -28,7 +28,7 @@
             "href":[
                 {
                     "name":"",
-                    "url":"http://hongik.webex.com/meet/rhanhahongik"
+                    "url":""
                 }
             ]
 
@@ -39,7 +39,7 @@
             "href":[
                 {
                     "name":"웹엑스",
-                    "url":"https://hongik.webex.com/meet/sikim"
+                    "url":"https://hongik.webex.com/meet/pae"
                 }
             ]
 
@@ -50,7 +50,7 @@
             "href":[
                 {
                     "name":"웹엑스",
-                    "url":"https://hongik.webex.com/meet/young.yoon"
+                    "url":"https://hongik.webex.com/meet/sikim"
                 }
             ]
 
@@ -61,7 +61,7 @@
             "href":[
                 {
                     "name":"",
-                    "url":"https://at.hongik.ac.kr"
+                    "url":""
                 }
             ]
 
@@ -72,7 +72,7 @@
             "href":[
                 {
                     "name":"",
-                    "url":"https://at.hongik.ac.kr"
+                    "url":""
                 }
             ]
 
@@ -87,7 +87,7 @@
                 }
             ]
 
-        }
+        },
         {
             "name":"",
             "description": "",
